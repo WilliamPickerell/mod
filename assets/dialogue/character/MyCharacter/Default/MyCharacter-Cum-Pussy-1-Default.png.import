@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/MyCharacter-Cum-Pussy-1-Default.png-122d9a02e59ea27d3d6b0ed6dd4726cb.res"
+group_file="res://assets/dialogue/Atlases/MyCharacter-Default.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/MyCharacter/Default/MyCharacter-Cum-Pussy-1-Default.png"
+dest_files=[ "res://.import/MyCharacter-Cum-Pussy-1-Default.png-122d9a02e59ea27d3d6b0ed6dd4726cb.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/MyCharacter-Default.png"
+import_mode=0
+crop_to_region=false

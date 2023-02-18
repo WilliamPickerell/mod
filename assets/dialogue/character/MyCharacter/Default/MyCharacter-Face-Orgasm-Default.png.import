@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/MyCharacter-Face-Orgasm-Default.png-3f33015aef4136b7ccad5894a1f738a7.res"
+group_file="res://assets/dialogue/Atlases/MyCharacter-Default.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/MyCharacter/Default/MyCharacter-Face-Orgasm-Default.png"
+dest_files=[ "res://.import/MyCharacter-Face-Orgasm-Default.png-3f33015aef4136b7ccad5894a1f738a7.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/MyCharacter-Default.png"
+import_mode=0
+crop_to_region=false

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/MyCharacter-Cum-Tits-1-Default.png-4a388dd37e06717b0c09eb1f1392adbc.res"
+group_file="res://assets/dialogue/Atlases/MyCharacter-Default.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/MyCharacter/Default/MyCharacter-Cum-Tits-1-Default.png"
+dest_files=[ "res://.import/MyCharacter-Cum-Tits-1-Default.png-4a388dd37e06717b0c09eb1f1392adbc.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/MyCharacter-Default.png"
+import_mode=0
+crop_to_region=false

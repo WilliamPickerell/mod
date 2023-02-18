@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/MyCharacter-Clothes-Default-Topless.png-6b65679e3d439926931b8f5756cfb04f.res"
+group_file="res://assets/dialogue/Atlases/MyCharacter-Default.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/MyCharacter/Default/MyCharacter-Clothes-Default-Topless.png"
+dest_files=[ "res://.import/MyCharacter-Clothes-Default-Topless.png-6b65679e3d439926931b8f5756cfb04f.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/MyCharacter-Default.png"
+import_mode=0
+crop_to_region=false
